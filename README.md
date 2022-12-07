@@ -1,4 +1,4 @@
-👋 Hi, I’m @Ashgramor
+👋 Hi, I’m @MattjoDev
 - 👀 I’m interested in:
   - 🎮Game Developement 
   - 🐧All things Linux
@@ -7,6 +7,6 @@
   - Discord: Mattjö#7987
 
 <!---
-Ashgramor/Ashgramor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MattjoDev/Ashgramor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
