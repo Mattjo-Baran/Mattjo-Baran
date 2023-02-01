@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @MattjoDev
+## 👋 Hi, I’m Mattjo
 - 👀 I’m interested in:
   - 🎮Game Developement 
   - 🐧All things Linux (Including Gaming)
