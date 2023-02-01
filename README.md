@@ -2,13 +2,13 @@
 - 👀 I’m interested in:
   - 🎮Game Developement 
   - 🐧All things Linux (Including Gaming)
-  - :
+  - 💡GameJams
 - 🌱 I’m currently learning to develop games in Unity3D and Godot using C#
 
-## :tada: My Games 
+## 🎉 My Games 
   - Nothing yet
 
-## :dice: I took part in some GameJams here you can check out my entries
+## 💡 I took part in some GameJams here you can check out my entries
 - [LudumDare 51](https://ldjam.com/events/ludum-dare/51/dodgeball-deathjam)
 
 ## 📫 How to reach me: 
