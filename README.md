@@ -3,7 +3,7 @@
   - 🎮Game Developement 
   - 🐧All things Linux (Including Gaming)
   - 💡GameJams
-- 🌱 I’m currently learning to develop games in Unity3D and Godot using C#
+- 🌱 Currently I'm Studying Video Game Programming at DSW University
 
 ## 🎉 My Games 
   - Nothing yet
