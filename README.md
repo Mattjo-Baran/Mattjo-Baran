@@ -1,4 +1,4 @@
-# Welcome to my Github Page Traveler!
+# Welcome Traveler!
 
 ## Who am I?
 - You can find more about me [here](https://carrd.co/dashboard/5422167577176638/edit), and if you like what i do you can always check out my [Ko-Fi](https://ko-fi.com/mattjodev)
