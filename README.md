@@ -6,7 +6,7 @@
 ## 🎉 My Games 
   - Nothing yet
 
-## 💡 I took part in some GameJams here you can check out my entries
+## 💡 GameJams
 - [LudumDare 51](https://ldjam.com/events/ludum-dare/51/dodgeball-deathjam)
 
 ## 📫 How to reach me: 
